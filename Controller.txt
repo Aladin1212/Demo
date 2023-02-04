@@ -1,1 +1,2 @@
 lorem ipsum dwdsdsjdsd bdshds cfjc.Test test..
+Editing in master branch to test git merge from github.
